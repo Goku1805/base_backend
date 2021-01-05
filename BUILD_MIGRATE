@@ -1,0 +1,1 @@
+docker-compose up --build bundle && docker-compose up --build migrate

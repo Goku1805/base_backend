@@ -1,0 +1,7 @@
+{
+  "name": "gardenbar_server",
+  "version": "1.0.0",
+  "description": "Gardenbar server API Documentation",
+  "title": "Gardenbar Server",
+  "url": "https://localhost:17001/api/v1"
+}
